@@ -1,0 +1,6 @@
+I found some missmatches at the lines: 
+[322] 
+[328] 
+
+  If you see the original source-code there is a missmatch with False.
+Adding a "" strings to Phantom_lib.pytherpreter_completer(module_type,"False") now modules: "Pytherpreter_Polymorphic" and "Pytherpreter" works fine.
